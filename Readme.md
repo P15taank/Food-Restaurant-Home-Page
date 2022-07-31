@@ -8,8 +8,8 @@
 ## Screenshot
 ![Project 2](./p2.png)
 ## What I have learn in this project
-- Learned about leaner gradience
-- Learned about all the background property
+- Learned about linear-gradient().
+- Learned about all the background properties.
 ## Time Spent
 I spent 2 hours to complete this project
 ## Live Link
