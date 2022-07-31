@@ -2,7 +2,7 @@
 ![Badge](https://img.shields.io/badge/Responsive-No-red)
 ![Badge](https://img.shields.io/badge/Live-Yes-brightgreen)
 ***
-## Technogy Used
+## Technology Used
 - HTML
 - CSS
 ## Screenshot
