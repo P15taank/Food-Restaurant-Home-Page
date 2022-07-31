@@ -13,4 +13,4 @@
 ## Time Spent
 I spent 2 hours to complete this project
 ## Live Link
-You can preview the project [Here](https://resta-urant.netlify.app/)
+Preview the project [Here](https://resta-urant.netlify.app/)
